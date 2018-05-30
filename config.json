@@ -1,0 +1,9 @@
+{
+  "station_id": "1",
+  "server": "http://192.168.0.252:8110",
+  "pid": "6",
+  "api": "http://192.168.0.252",
+  "sync": "http://192.168.0.252:8117",
+  "checkpay": "https://www.parkingpay.net/api/is_pay.php",
+  "monitor": "http://192.168.0.134:8080"
+}

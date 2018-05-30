@@ -1,0 +1,84 @@
+2018-05-23 16:35:04{"open":"0","payway":"","station_id":"1","carnum":"测A23458","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23458\",\"outtime\":\"1527064505\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:35:09{"open":"0","payway":"","station_id":"1","carnum":"测A23458","tip":"请缴纳150元，停车时长：5天23小时59分","money":150,"total_fee":150,"weixinpay_time":"","intime":"2018-05-17 16:35:07","stay":"5天23小时59分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23458\",\"intime\":1526546107,\"outtime\":1527064505,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:35:13{"open":"0","payway":"","station_id":"1","carnum":"测A23458","tip":"请缴纳25元，停车时长：23小时59分","money":25,"total_fee":25,"weixinpay_time":"","intime":"2018-05-22 16:35:07","stay":"23小时59分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23458\",\"intime\":1526978107,\"outtime\":1527064505,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:35:18{"open":"0","payway":"","station_id":"1","carnum":"测A23458","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23458\",\"intime\":1527064507,\"outtime\":1527064505,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:35:25{"open":"0","payway":"","station_id":"1","carnum":"测A23458","tip":"请缴纳4元，停车时长：59分","money":4,"total_fee":4,"weixinpay_time":"","intime":"2018-05-23 15:35:18","stay":"59分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23458\",\"intime\":1527060918,\"outtime\":1527064505,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:35:30{"open":"0","payway":"","station_id":"1","carnum":"测A23458","tip":"请缴纳29元，停车时长：1天59分","money":29,"total_fee":29,"weixinpay_time":"","intime":"2018-05-22 15:35:18","stay":"1天59分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23458\",\"intime\":1526974518,\"outtime\":1527064505,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:35:33{"open":"0","payway":"","station_id":"1","carnum":"测A23458","tip":"请缴纳4元，停车时长：59分","money":4,"total_fee":4,"weixinpay_time":"","intime":"2018-05-23 15:35:18","stay":"59分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23458\",\"intime\":1527060918,\"outtime\":1527064505,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:37:19{"open":"0","payway":"","station_id":"1","carnum":"测A23458","tip":"请缴纳29元，停车时长：1天59分","money":29,"total_fee":29,"weixinpay_time":"","intime":"2018-05-22 15:35:18","stay":"1天59分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23458\",\"intime\":1526974518,\"outtime\":1527064505,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:49:05{"open":"0","payway":"","station_id":"1","carnum":"测A23458","tip":"请缴纳33元，停车时长：1天1小时13分","money":33,"total_fee":33,"weixinpay_time":"","intime":"2018-05-22 15:35:18","stay":"1天1小时13分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23458\",\"outtime\":\"1527065347\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:49:25{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":\"1527065367\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:51:10{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":\"1527065471\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:51:22{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"请缴纳25元，停车时长：23小时59分","money":25,"total_fee":25,"weixinpay_time":"","intime":"2018-05-22 16:51:13","stay":"23小时59分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1526979073,\"outtime\":1527065471,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:51:32{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1527065473,\"outtime\":1527065471,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:51:38{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"请缴纳4元，停车时长：1分","money":4,"total_fee":4,"weixinpay_time":"","intime":"2018-05-23 16:49:32","stay":"1分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1527065372,\"outtime\":1527065471,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:51:55{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"请缴纳4元，停车时长：7分","money":4,"total_fee":4,"weixinpay_time":"","intime":"2018-05-23 16:43:32","stay":"7分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1527065012,\"outtime\":1527065471,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:54:05{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"请缴纳4元，停车时长：7分","money":4,"total_fee":4,"weixinpay_time":"","intime":"2018-05-23 16:43:32","stay":"7分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1526978612,\"outtime\":1527065471,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:54:20{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"请缴纳4元，停车时长：10分","money":4,"total_fee":4,"weixinpay_time":"","intime":"2018-05-23 16:43:32","stay":"10分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":\"1527065662\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:54:33{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":\"1527065675\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:54:39{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1527065676,\"outtime\":1527065675,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:54:44{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1526979279,\"outtime\":1527065675,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-23 16:55:01{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1526979284,\"outtime\":1527065675,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-25 15:43:19{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":\"1527234203\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-25 15:43:25{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"请缴纳25元，停车时长：1天","money":25,"total_fee":25,"weixinpay_time":"","intime":"2018-05-24 15:43:22","stay":"1天","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1527147802,\"outtime\":1527234203,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:17:48{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"请缴纳125元，停车时长：4天21小时34分","money":125,"total_fee":125,"weixinpay_time":"","intime":"2018-05-24 15:43:22","stay":"4天21小时34分","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":\"1527571068\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:19:06{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":\"1527571146\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:19:28{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:19:31{"open":"0","payway":"","station_id":"1","carnum":"测A23421","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23421\",\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:19:33{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:19:42{"open":"0","payway":"","station_id":"1","carnum":"测A23441","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23441\",\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:19:49{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:20:15{"open":"0","payway":"","station_id":"1","carnum":"测A23441","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23441\",\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:20:17{"open":"0","payway":"","station_id":"1","carnum":"测A23441","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23441\",\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:20:18{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:20:32{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1527484829,\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:20:35{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1527398432,\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:21:16{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1527484835,\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:21:21{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1527484876,\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:21:35{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"intime\":1526361681,\"outtime\":1527571146,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:22:00{"open":"0","payway":"","station_id":"1","carnum":"测A23451","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23451\",\"outtime\":\"1527571320\",\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:23:56{"open":"0","payway":"","station_id":"1","carnum":"测A23411","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23411\",\"outtime\":1527571320,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:23:59{"open":"0","payway":"","station_id":"1","carnum":"测A23415","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23415\",\"outtime\":1527571320,\"color\":\"蓝牌\"}"}手动起竿
+
+2018-05-29 13:24:01{"open":"0","payway":"","station_id":"1","carnum":"测A23455","tip":"无入场记录，请收取现金！","money":"0","total_fee":"0","weixinpay_time":"","intime":"","stay":"无入场记录","wxpaycode":"","alipaycode":"","carNumber":"{\"carNum\":\"测A23455\",\"outtime\":1527571320,\"color\":\"蓝牌\"}"}手动起竿
+
